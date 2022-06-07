@@ -22,7 +22,7 @@ Config.VendingMachines = {
         ['Label'] = 'Drinks',
         ['Items'] = {
             [1] = {
-                ['name'] = "kurkakola",
+                ['name'] = "cocacola",
                 ['price'] = 3,
                 ['amount'] = 50,
                 ['info'] = {},
@@ -70,7 +70,7 @@ Config.VendingMachines = {
                 ['slot'] = 6,
             },
             [7] = {
-                ['name'] = "green_tea",
+                ['name'] = "tea_green",
                 ['price'] = 3,
                 ['amount'] = 50,
                 ['info'] = {},
@@ -99,7 +99,7 @@ Config.VendingMachines = {
                 ['slot'] = 2,
             },
             [3] = {
-                ['name'] = "twerks_candy",
+                ['name'] = "candy_twix",
                 ['price'] = 4,
                 ['amount'] = 50,
                 ['info'] = {},
@@ -107,7 +107,7 @@ Config.VendingMachines = {
                 ['slot'] = 3,
             },
             [4] = {
-                ['name'] = "snikkel_candy",
+                ['name'] = "candy_snickers",
                 ['price'] = 4,
                 ['amount'] = 50,
                 ['info'] = {},
@@ -123,7 +123,7 @@ Config.VendingMachines = {
                 ['slot'] = 5,
             },
             [6] = {
-                ['name'] = "bbanana",
+                ['name'] = "cookie",
                 ['price'] = 4,
                 ['amount'] = 50,
                 ['info'] = {},
@@ -131,44 +131,12 @@ Config.VendingMachines = {
                 ['slot'] = 6,
             },
             [7] = {
-                ['name'] = "cookie",
-                ['price'] = 4,
-                ['amount'] = 50,
-                ['info'] = {},
-                ['type'] = "item",
-                ['slot'] = 7,
-            },
-            [8] = {
                 ['name'] = "muffin",
                 ['price'] = 4,
                 ['amount'] = 50,
                 ['info'] = {},
                 ['type'] = "item",
-                ['slot'] = 8,
-            },
-            [9] = {
-                ['name'] = "timbitsdough",
-                ['price'] = 4,
-                ['amount'] = 50,
-                ['info'] = {},
-                ['type'] = "item",
-                ['slot'] = 9,
-            },
-            [10] = {
-                ['name'] = "timsdonutdough",
-                ['price'] = 4,
-                ['amount'] = 50,
-                ['info'] = {},
-                ['type'] = "item",
-                ['slot'] = 10,
-            },
-            [11] = {
-                ['name'] = "timsstrawberrydonut",
-                ['price'] = 4,
-                ['amount'] = 50,
-                ['info'] = {},
-                ['type'] = "item",
-                ['slot'] = 11,
+                ['slot'] = 7,
             },
         }
     },
@@ -184,7 +152,7 @@ Config.VendingMachines = {
                 ['slot'] = 1,
             },
             [2] = {
-                ['name'] = "icedcoffee",
+                ['name'] = "coffee_iced",
                 ['price'] = 4,
                 ['amount'] = 50,
                 ['info'] = {},
@@ -192,7 +160,7 @@ Config.VendingMachines = {
                 ['slot'] = 2,
             },
             [3] = {
-                ['name'] = "expressonice",
+                ['name'] = "espresso_ice",
                 ['price'] = 4,
                 ['amount'] = 50,
                 ['info'] = {},
@@ -200,7 +168,7 @@ Config.VendingMachines = {
                 ['slot'] = 3,
             },
             [4] = {
-                ['name'] = "icedlatte",
+                ['name'] = "latte_iced",
                 ['price'] = 4,
                 ['amount'] = 50,
                 ['info'] = {},
@@ -224,7 +192,7 @@ Config.VendingMachines = {
                 ['slot'] = 6,
             },
             [7] = {
-                ['name'] = "dreamlatte",
+                ['name'] = "cappuccino",
                 ['price'] = 4,
                 ['amount'] = 50,
                 ['info'] = {},
@@ -232,7 +200,7 @@ Config.VendingMachines = {
                 ['slot'] = 7,
             },
             [8] = {
-                ['name'] = "cappuccino",
+                ['name'] = "tea_green",
                 ['price'] = 4,
                 ['amount'] = 50,
                 ['info'] = {},
@@ -240,20 +208,12 @@ Config.VendingMachines = {
                 ['slot'] = 8,
             },
             [9] = {
-                ['name'] = "green_tea",
+                ['name'] = "tea_mint",
                 ['price'] = 4,
                 ['amount'] = 50,
                 ['info'] = {},
                 ['type'] = "item",
                 ['slot'] = 9,
-            },
-            [10] = {
-                ['name'] = "mint_tea",
-                ['price'] = 4,
-                ['amount'] = 50,
-                ['info'] = {},
-                ['type'] = "item",
-                ['slot'] = 10,
             },
         }
     },
